@@ -1,6 +1,13 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "BankAccount",
+            "projectName": ""
+        },
+        {
             "name": "C/C++: g++-14 build and debug active file",
             "type": "cppdbg",
             "request": "launch",

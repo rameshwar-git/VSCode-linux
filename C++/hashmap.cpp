@@ -14,5 +14,8 @@ int main() {
         cout<<arr[i];
     // Convert to 2D vector
     cout<<endl;
+
+    cout<<'4'-'0'<<endl;
+
     return 0;
 }
